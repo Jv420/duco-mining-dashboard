@@ -30,7 +30,7 @@
         <meta property="og:title" content="Duino-Coin dashboard">
         <meta property="og:description" content="The Duino-Coin dashboard provides a miner analysis, duco faucet, server information and more!">
         <meta property="og:image" content="https://raw.githubusercontent.com/Lulaschkas/duco-mining-dashboard/main/ducomining.png">
-        <meta property="og:url" content="https://lulaschkas.github.io/duco-mining-dashboard/index.php">
+        <meta property="og:url" content="https://jv420.github.io/duco-mining-dashboard/index.php">
 
         <title>Duino-Coin Dashboard</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
